@@ -1,1 +1,1 @@
-# job-opening
+# job-posting
